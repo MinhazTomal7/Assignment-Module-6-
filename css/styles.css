@@ -1,0 +1,37 @@
+.middle-text{
+    text-align: center;
+    background-color: #BFCFE7;
+    padding: 5%;
+}
+
+.input{
+    text-align: center;
+    margin: 2%;
+}
+
+.foot{
+    text-align: center;
+    color: white;
+    padding: 1%;
+    
+}
+
+#adultCard, #childCard {
+    display: none;
+   
+}
+
+.card{
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+}
+.adult-men{
+    height: 200px;
+    width: 300px;
+}
+
+.child-pic{
+    height: 200px;
+    width: 300px;
+}
